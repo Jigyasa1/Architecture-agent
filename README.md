@@ -84,8 +84,6 @@ python main.py plan --stories examples/sample_stories.json --interactive
 # Fully guided mode
 python main.py interactive
 
--##Testing:
-
 # Run all tests
 pytest
 
