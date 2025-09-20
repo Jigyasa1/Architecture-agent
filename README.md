@@ -1,6 +1,6 @@
 # AI Architecture Planning Agent
 
-> ** Intelligent system architecture generation from user stories using LangGraph and LLM orchestration
+> **Intelligent system architecture generation from user stories using LangGraph and LLM orchestration**
 
 An AI-powered agent that analyzes user stories and automatically generates comprehensive system architecture recommendations, including technology stack selection, component design, data modeling, API specifications, and deployment strategies.
 
@@ -83,6 +83,8 @@ python main.py plan --stories examples/sample_stories.json --interactive
 
 # Fully guided mode
 python main.py interactive
+
+- **##Testing:**
 
 # Run all tests
 pytest
